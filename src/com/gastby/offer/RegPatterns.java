@@ -8,7 +8,6 @@ public class RegPatterns {
 
 	private boolean help(String a, String b, int i, int j) {
 		System.out.println("nice");
-		String s = "/T1/src/com/gastby/offer/RegPatterns.java";
 		return false;
 	}
 }
